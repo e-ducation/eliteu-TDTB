@@ -1,0 +1,21 @@
+[
+  {
+    "activity_month": "2018-12",
+    "locale": "",
+    "organizer": "LJQ",
+    "participators": ["","",""],
+    "total_of_expense": 0.00,
+    "list_of_expenses": [
+      {
+        "expense_item": "A",
+        "price": 0.00,
+        "count": 0
+      },
+      {
+        "expense_item": "B",
+        "price": 0.00,
+        "count": 0
+      }
+    ]
+  }
+]
