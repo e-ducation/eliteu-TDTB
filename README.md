@@ -1,2 +1,27 @@
-# eliteu-TDTB
-The Project of Elite Education Technology Department Team Building(TDTB)
+# EliteU-TDTB
+Team Building Program of Elite Education Technology Department(TDTB)  
+英荔教育技术部团队建设项目管理(TDTB)
+
+## Why
+英荔教育是一家重视客户体验、重视员工关怀的公司。同时我们拥抱开源社区，以开源的方式开展公司各项业务。  
+因此我们也将技术部的团队建设思路和活动内容以开源的方式进行管理。  
+我们期望通过团队建设活动构建一个充满活力，包容，开放，好玩的学习型团队，我们期望机会是平等的，人人都能参与管理。
+
+一次有质量的团队建设活动需要策划者考虑如何在经费一定的情况下合理安排出时间，空间，内容。首先要考虑 “本次团队建设活动的主题是什么，如何让每个人都能参与进来，并在活动的过程中有所感悟”；其次要考虑 “我在哪里收集关于活动所需空间、物流、价格等信息”；最后还要考虑团队当前的工作状态，精神状态，时间安排，天气等因素。
+
+能合理安排一场优质团建活动可以从各方面锻炼自己、展示自己。我们把这种机会给到每个人。
+
+PS: 如果你对我们的公司文化和工作方式感兴趣，赶紧[联系](mailto:hr@eliteu.cn)并加入我们吧！
+
+## How to
+1. 公司提供团队建设资金(每人每月40元，季度结算)，由部门负责人先垫付，再报销。
+2. 按技术部同事姓氏先后顺序每月一名同事负责活动，或由当月同事和下月同事共同策划一场团建活动。
+3. 活动组织者不晚于当月15日前，利用非工作时间准备好活动主题，时间，地点和内容，至少准备一套方案，建议准备两套(及以上)方案供投票决定。
+4. 充分利用GitHub中issue，PR，Wiki，Project功能进行项目管理。
+
+## Privacy Policy
+- 涉及到人名时，我们以姓名首写字母为替代，如李白，使用LB表示。
+- 不上传照片到该仓库，集体讨论通过的照片除外。
+
+## License
+The documents in this repository is licensed under CC-BY-4.0 unless otherwise noted. Please see the [LICENSE](./LICENSE) file for details.
